@@ -1,10 +1,10 @@
-## Hi! I'm Guran Vugic, Experienced and detail - oriented Web & Mobile App Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Lazar Vrancic, Experienced and detail - oriented Web & Mobile App Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h1>Welcome to my profile!</h1> 
 
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Matrixcode.gif' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guran-vugic-)](www.linkedin.com/in/guran-vugic-) [![Gmail Badge](https://img.shields.io/badge/-vugicguran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vugicguran@gmail.com)](mailto:vugicguran@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lazar-vrancic-)](www.linkedin.com/in/lazar-vrancic-) [![Gmail Badge](https://img.shields.io/badge/-vranciclazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vranciclazar@gmail.com)](mailto:vranciclazar@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolf-ivankovic" alt="rudolf-ivankovic" /> </p>
 
 <div style="text-align: right">Programming gave me a purpose in life and i'm doing my best everyday</div>
