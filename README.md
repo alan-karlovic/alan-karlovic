@@ -1,11 +1,11 @@
-## Hi! I'm Lazar Vrancic, Experienced and detail - oriented Web & Mobile App Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Alan Karlovic, Experienced and detail - oriented Web & Mobile App Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h1>Welcome to my profile!</h1> 
 
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Matrixcode.gif' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lazar-vrancic-)](www.linkedin.com/in/lazar-vrancic-) [![Gmail Badge](https://img.shields.io/badge/-vranciclazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vranciclazar@gmail.com)](mailto:vranciclazar@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolf-ivankovic" alt="rudolf-ivankovic" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-karlovic-)](www.linkedin.com/in/alan-karlovic-) [![Gmail Badge](https://img.shields.io/badge/-alankarlovic8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alankarlovic8@gmail.com)](mailto:alankarlovic8@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alan-karlovic" alt="alan-karlovic" /> </p>
 
 <div style="text-align: right">Programming gave me a purpose in life and i'm doing my best everyday</div>
 
