@@ -1,4 +1,4 @@
-## Hi! I'm Alan Karlovic, Experienced and detail - oriented Web & Mobile App Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Alan Karlovic, Full Stack Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h1>Welcome to my profile!</h1> 
 
